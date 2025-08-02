@@ -4,7 +4,7 @@ This is the frontend of the Movies and TV Shows Manager app, built with **React 
 
 ## 🔗 Live Deployment
 
-[Live App on Vercel](https://your-vercel-link.vercel.app)
+[Live App on Vercel](https://movies-and-tv-shows-frontend.vercel.app)
 
 ---
 
@@ -25,8 +25,8 @@ This is the frontend of the Movies and TV Shows Manager app, built with **React 
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/movies-frontend.git
-cd movies-frontend
+git clone https://github.com/Raman-Nagar/Movies-and-TV-Shows-frontend.git
+cd Movies-and-TV-Shows-frontend
 ```
 ### 2. Install Dependencies
 
